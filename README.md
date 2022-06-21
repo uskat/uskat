@@ -17,12 +17,12 @@ Current progress in iOS
 
 Education
 ---------
-2022 : **iOS developer**, Netology (netology.ru); [certificate](/certifacate.pdf) 
-2000 : **(similar to) MSc Economics and Management**, Siberian State Industrial University (sibsiu.ru)
+2022 : **iOS developer**, [Netology](http://netology.ru) : \[[certificate\]](https://github.com/uskat/uskat/blob/08fbc7413c34e765068b91bd501fd1694d70d7ee/certificate.pdf)  
+2000 : **(similar to) MSc Economics and Management**, [Siberian State Industrial University](http://sibsiu.ru)
 
 Courses
 -------
-2014 : **English course**, EF ENGLISH FIRST (www.englishfirst.com), levels B1, B2, C1
+2014 : **English course** (levels B1, B2, C1), [EF ENGLISH FIRST](http://www.ef.com)
 
 Personal qualities and skills
 -----------------------------
