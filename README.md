@@ -17,7 +17,7 @@ Current progress in iOS
 
 Education
 ---------
-2022 : **iOS developer**, Netology (netology.ru)  
+2022 : **iOS developer**, Netology (netology.ru); [certificate](/certifacate.pdf) 
 2000 : **(similar to) MSc Economics and Management**, Siberian State Industrial University (sibsiu.ru)
 
 Courses
