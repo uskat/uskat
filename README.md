@@ -22,7 +22,7 @@ Education
 
 Courses
 -------
-2014 : **English course** (levels B1, B2, C1), [EF ENGLISH FIRST](http://www.ef.com)
+2014 : **English course** (levels B1, B2, C1), [EF English First](http://www.ef.com)
 
 Personal qualities and skills
 -----------------------------
