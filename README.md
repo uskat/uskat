@@ -28,7 +28,7 @@ Personal qualities and skills
 -----------------------------
 - Intermediate English *(current level, but can be quickly improved to previous level - Upper-Intermediate/Advanced)*
 - Native Russian
-- Hobbies: traveling, reading, boardgames
+- Hobbies: traveling, hystory, psychology, boardgames
 
 Others skills
 -------------
