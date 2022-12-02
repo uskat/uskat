@@ -12,7 +12,7 @@ Current progress in iOS
 -----------------------
 - [x] - Completed course "ios developer" 
 - [ ] - preparing [resume](https://docs.google.com/document/d/1E2cDXdguwpc45caYI-ZVBKdYQfL6yUxlxoz68ZutWcA/edit?usp=sharing), portfolio
-- [ ] - studying CoreData
+- [ ] - studying multithreading and CoreData
 - [ ] - writing application for training and my portfolio
 - [ ] - practicing the Swift as a postgraduate student
 
