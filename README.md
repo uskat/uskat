@@ -3,9 +3,10 @@
 
 Skills
 ------
-- _Swift, Xcode, Git, OOP, Functional programming_
+- _Swift, Xcode, Git, OOP_
 - _iOS-dev, Navigation, UIViewController life cycle_
 - _UIScrollView, UITableView, CollectionView, Auto Layout, Gestures and Animation (basics)_
+- _Dependencies, Patterns_
 
 Current progress in iOS
 -----------------------
